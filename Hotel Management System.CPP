@@ -1072,10 +1072,7 @@ class control
 	    outtextxy(40,280, "Shri Krishan Institute Of    Hartron Workstation ");
 	     outtextxy(40,310,"Engg. & Technology                               ");
 	  getch();
-	  cleardevice();
- 
-        c.pass();
-        c.bye();
-        closegraph();
-    
+	   c.pass();
+           c.bye();
+            closegraph();
  }
