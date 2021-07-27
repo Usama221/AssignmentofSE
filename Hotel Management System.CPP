@@ -1074,8 +1074,8 @@ class control
 	  getch();
 	  cleardevice();
  
- 
-     c.pass();
-     c.bye();
-     closegraph();
+        c.pass();
+        c.bye();
+        closegraph();
+    
  }
